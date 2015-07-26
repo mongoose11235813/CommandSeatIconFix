@@ -1,5 +1,5 @@
 Building from source:
-Symlink CommandSeatIconFix/KSP_dir to your ksp floder or just copy your ksp folder inside a project folder.
+Symlink CommandSeatIconFix/KSP_dir to your ksp floder or just copy your ksp folder inside the project folder.
 i.e.
 CommandSeatIconFix\
   KSP_dir\
